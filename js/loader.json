@@ -1,0 +1,4 @@
+{
+  'launch': '/program/index.html',
+  'update': '/updater/index.html'
+}
